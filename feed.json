@@ -10,9 +10,23 @@
     },
     "items": [
         {
+            "id": "https://sebastianthulin.se/publii/kontakt.html",
+            "url": "https://sebastianthulin.se/publii/kontakt.html",
+            "title": "Kontakt",
+            "summary": "Kontakta mig",
+            "content_html": "<p>Kontakta mig</p>",
+            "author": {
+                "name": "Sebastian Thulin"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-30T13:18:21+01:00",
+            "date_modified": "2021-01-30T13:18:21+01:00"
+        },
+        {
             "id": "https://sebastianthulin.se/publii/test-inlay.html",
             "url": "https://sebastianthulin.se/publii/test-inlay.html",
-            "title": "Test inlay",
+            "title": "Home",
             "summary": " Test ",
             "content_html": "\n  <p>\n    Test\n  </p>",
             "author": {
@@ -21,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2021-01-30T13:15:09+01:00",
-            "date_modified": "2021-01-30T13:15:09+01:00"
+            "date_modified": "2021-01-30T13:17:49+01:00"
         }
     ]
 }

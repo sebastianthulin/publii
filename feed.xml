@@ -3,21 +3,41 @@
     <title>SoundOn</title>
     <link href="https://sebastianthulin.se/publii/feed.xml" rel="self" />
     <link href="https://sebastianthulin.se/publii" />
-    <updated>2021-01-30T13:15:09+01:00</updated>
+    <updated>2021-01-30T13:18:21+01:00</updated>
     <author>
         <name>Sebastian Thulin</name>
     </author>
     <id>https://sebastianthulin.se/publii</id>
 
     <entry>
-        <title>Test inlay</title>
+        <title>Kontakt</title>
+        <author>
+            <name>Sebastian Thulin</name>
+        </author>
+        <link href="https://sebastianthulin.se/publii/kontakt.html"/>
+        <id>https://sebastianthulin.se/publii/kontakt.html</id>
+
+        <updated>2021-01-30T13:18:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Kontakta mig
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Kontakta mig</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Home</title>
         <author>
             <name>Sebastian Thulin</name>
         </author>
         <link href="https://sebastianthulin.se/publii/test-inlay.html"/>
         <id>https://sebastianthulin.se/publii/test-inlay.html</id>
 
-        <updated>2021-01-30T13:15:09+01:00</updated>
+        <updated>2021-01-30T13:17:49+01:00</updated>
             <summary>
                 <![CDATA[
                      Test 
