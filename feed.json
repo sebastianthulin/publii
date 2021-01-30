@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SoundOn",
+    "description": "",
+    "home_page_url": "https://sebastianthulin.se/publii",
+    "feed_url": "https://sebastianthulin.se/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sebastian Thulin"
+    },
+    "items": [
+        {
+            "id": "https://sebastianthulin.se/publii/test-inlay.html",
+            "url": "https://sebastianthulin.se/publii/test-inlay.html",
+            "title": "Test inlay",
+            "summary": " Test ",
+            "content_html": "\n  <p>\n    Test\n  </p>",
+            "author": {
+                "name": "Sebastian Thulin"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-30T13:15:09+01:00",
+            "date_modified": "2021-01-30T13:15:09+01:00"
+        }
+    ]
+}
