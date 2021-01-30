@@ -3,7 +3,7 @@
     <title>SoundOn</title>
     <link href="https://sebastianthulin.se/publii/feed.xml" rel="self" />
     <link href="https://sebastianthulin.se/publii" />
-    <updated>2021-01-30T13:22:09+01:00</updated>
+    <updated>2021-01-30T13:31:05+01:00</updated>
     <author>
         <name>Sebastian Thulin</name>
     </author>
@@ -17,15 +17,17 @@
         <link href="https://sebastianthulin.se/publii/kontakt.html"/>
         <id>https://sebastianthulin.se/publii/kontakt.html</id>
 
-        <updated>2021-01-30T13:18:21+01:00</updated>
+        <updated>2021-01-30T13:31:05+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://sebastianthulin.se/publii/media/posts/2/jefferson-santos-fCEJGBzAkrU-unsplash.jpg" alt="" />
                     Kontakta mig
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Kontakta mig</p>
+                    <img src="https://sebastianthulin.se/publii/media/posts/2/jefferson-santos-fCEJGBzAkrU-unsplash.jpg" alt="" />
+                <p class="dropcap">Kontakta mig</p>
             ]]>
         </content>
     </entry>

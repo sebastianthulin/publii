@@ -14,14 +14,15 @@
             "url": "https://sebastianthulin.se/publii/kontakt.html",
             "title": "Kontakt",
             "summary": "Kontakta mig",
-            "content_html": "<p>Kontakta mig</p>",
+            "content_html": "<p class=\"dropcap\">Kontakta mig</p>",
+            "image": "https://sebastianthulin.se/publii/media/posts/2/jefferson-santos-fCEJGBzAkrU-unsplash.jpg",
             "author": {
                 "name": "Sebastian Thulin"
             },
             "tags": [
             ],
             "date_published": "2021-01-30T13:18:21+01:00",
-            "date_modified": "2021-01-30T13:18:21+01:00"
+            "date_modified": "2021-01-30T13:31:05+01:00"
         },
         {
             "id": "https://sebastianthulin.se/publii/test-inlay.html",
