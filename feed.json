@@ -27,15 +27,15 @@
             "id": "https://sebastianthulin.se/publii/test-inlay.html",
             "url": "https://sebastianthulin.se/publii/test-inlay.html",
             "title": "Home",
-            "summary": " Test ",
-            "content_html": "\n  <p>\n    Test\n  </p>",
+            "summary": " Test This is a caption ",
+            "content_html": "\n  <p>\n    Test\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://sebastianthulin.se/publii/media/posts/1/jefferson-santos-fCEJGBzAkrU-unsplash.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://sebastianthulin.se/publii/media/posts/1/responsive/jefferson-santos-fCEJGBzAkrU-unsplash-xs.jpg 300w ,https://sebastianthulin.se/publii/media/posts/1/responsive/jefferson-santos-fCEJGBzAkrU-unsplash-sm.jpg 480w ,https://sebastianthulin.se/publii/media/posts/1/responsive/jefferson-santos-fCEJGBzAkrU-unsplash-md.jpg 768w ,https://sebastianthulin.se/publii/media/posts/1/responsive/jefferson-santos-fCEJGBzAkrU-unsplash-lg.jpg 1024w ,https://sebastianthulin.se/publii/media/posts/1/responsive/jefferson-santos-fCEJGBzAkrU-unsplash-xl.jpg 1360w ,https://sebastianthulin.se/publii/media/posts/1/responsive/jefferson-santos-fCEJGBzAkrU-unsplash-2xl.jpg 1600w\"  height=\"3456\" width=\"5184\" alt=\"\" />\n      <figcaption>This is a caption</figcaption>\n    </figure>",
             "author": {
                 "name": "Sebastian Thulin"
             },
             "tags": [
             ],
             "date_published": "2021-01-30T13:15:09+01:00",
-            "date_modified": "2021-01-30T13:17:49+01:00"
+            "date_modified": "2021-01-30T13:22:09+01:00"
         }
     ]
 }

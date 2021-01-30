@@ -3,7 +3,7 @@
     <title>SoundOn</title>
     <link href="https://sebastianthulin.se/publii/feed.xml" rel="self" />
     <link href="https://sebastianthulin.se/publii" />
-    <updated>2021-01-30T13:18:21+01:00</updated>
+    <updated>2021-01-30T13:22:09+01:00</updated>
     <author>
         <name>Sebastian Thulin</name>
     </author>
@@ -37,10 +37,10 @@
         <link href="https://sebastianthulin.se/publii/test-inlay.html"/>
         <id>https://sebastianthulin.se/publii/test-inlay.html</id>
 
-        <updated>2021-01-30T13:17:49+01:00</updated>
+        <updated>2021-01-30T13:22:09+01:00</updated>
             <summary>
                 <![CDATA[
-                     Test 
+                     Test This is a caption 
                 ]]>
             </summary>
         <content type="html">
@@ -49,6 +49,11 @@
   <p>
     Test
   </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://sebastianthulin.se/publii/media/posts/1/jefferson-santos-fCEJGBzAkrU-unsplash.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebastianthulin.se/publii/media/posts/1/responsive/jefferson-santos-fCEJGBzAkrU-unsplash-xs.jpg 300w ,https://sebastianthulin.se/publii/media/posts/1/responsive/jefferson-santos-fCEJGBzAkrU-unsplash-sm.jpg 480w ,https://sebastianthulin.se/publii/media/posts/1/responsive/jefferson-santos-fCEJGBzAkrU-unsplash-md.jpg 768w ,https://sebastianthulin.se/publii/media/posts/1/responsive/jefferson-santos-fCEJGBzAkrU-unsplash-lg.jpg 1024w ,https://sebastianthulin.se/publii/media/posts/1/responsive/jefferson-santos-fCEJGBzAkrU-unsplash-xl.jpg 1360w ,https://sebastianthulin.se/publii/media/posts/1/responsive/jefferson-santos-fCEJGBzAkrU-unsplash-2xl.jpg 1600w"  height="3456" width="5184" alt="" />
+      <figcaption>This is a caption</figcaption>
+    </figure>
             ]]>
         </content>
     </entry>
